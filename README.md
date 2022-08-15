@@ -21,7 +21,7 @@ Os grupos devem ser formados com 6 a 12 alunos, por grupo. Cada grupo deve criar
 As correções serão realizadas acessando diretamente o projeto do Github e o Sistema WEB online, hospedado na Cloud. O endereço do sistema WEB deve constar no versionamento.
 Portanto, não enviar o projeto, documentação ou códigos por e-mail.
 
-**Para formalizar a entrega do projeto**, apenas um integrante do grupo deve preencher o formulário de entrega:**
+**Para formalizar a entrega do projeto**, apenas um integrante do grupo deve preencher o formulário de entrega:
 	
 **ATENÇÃO:**
 Sem o correto preenchimento do formulário o trabalho não será corrigido. 
